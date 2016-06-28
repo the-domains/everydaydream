@@ -10,7 +10,6 @@ collections:
       path: /rss.xml
       format: rss
       number: 10
-typography_spectrum: 0.6491228
 color:
   saturation: 0.04530407954007387
   brandStrength: 0.3824274558573961
@@ -22,5 +21,6 @@ color:
     - '#3498DB'
     - '#2980B9'
   lightness: 0.1204218715429306
-layout_spectrum: 0.4563778811134398
+typography_spectrum: 0.6491228
+layout_spectrum: 1
 name: everydaydream
