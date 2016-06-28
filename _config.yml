@@ -1,9 +1,19 @@
-layout_spectrum: 0.4563778811134398
-typography_spectrum: 0.5962999581824988
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+typography_spectrum: 0.6491228
 color:
-  brandStrength: 0.3824274558573961
-  lightness: 0.1204218715429306
   saturation: 0.04530407954007387
+  brandStrength: 0.3824274558573961
   rhythmicContrast: 0.8524452573619783
   brandColors:
     - '#2C3E50'
@@ -11,4 +21,6 @@ color:
     - '#ECF0F1'
     - '#3498DB'
     - '#2980B9'
+  lightness: 0.1204218715429306
+layout_spectrum: 0.4563778811134398
 name: everydaydream
